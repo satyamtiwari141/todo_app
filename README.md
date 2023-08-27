@@ -21,7 +21,7 @@ Check it yourself :)
 ## Screenshots
 
 <p align="center">
-  <img src="https://i.imgur.com/39QVqTZ.jpg" alt="Screenshots">
+  <img src="assets/images/Screenshot.png" alt="Screenshots">
 </p>
 
 
